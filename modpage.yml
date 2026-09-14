@@ -4,9 +4,8 @@
 #
 # The generator is https://github.com/mattjesmc/ModPageConstructor. Run `modpage build` after
 # editing this file or CHANGELOG.md and commit the result; `gradlew build` (modpageCheck) fails
-# while a page is stale. The GitHub Actions workflow `modpage init` drops is deliberately not
-# here: ModPageConstructor is a private repository, and a public repository's workflow cannot
-# use an action from a private one. Once it is public, `modpage init` writes the workflow back.
+# while a page is stale, and .github/workflows/modpage.yml rebuilds the pages on every push to
+# main and on every v* tag.
 
 modpage: "0.4"
 
