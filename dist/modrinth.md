@@ -138,7 +138,7 @@ Read from `CHANGELOG.md` at build time; the [releases page](https://github.com/m
 <details>
 <summary><b>Release history</b></summary>
 
-**0.1.0** · <sub>2026-09-14</sub>
+**[0.1.0](https://github.com/mattjesmc/Miffy/releases/tag/v0.1.0)** · <sub>2026-09-14</sub>
 First release, for Minecraft 26.2 on Fabric.
 
 *Added*

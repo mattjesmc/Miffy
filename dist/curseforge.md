@@ -112,7 +112,7 @@ item, and each side needs to know them.
 
 Read from `CHANGELOG.md` at build time; the [releases page](https://github.com/mattjesmc/Miffy/releases) carries the jars.
 
-**0.1.0** · 2026-09-14
+**[0.1.0](https://github.com/mattjesmc/Miffy/releases/tag/v0.1.0)** · 2026-09-14
 First release, for Minecraft 26.2 on Fabric.
 
 *Added*

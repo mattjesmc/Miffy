@@ -2,8 +2,11 @@
 # Build with:  modpage build          (README.md + dist/modrinth.md + dist/curseforge.md)
 # List the shared skeleton with:  modpage sections
 #
-# The generator is https://github.com/mattjesmc/ModPageConstructor; the workflow in
-# .github/workflows/modpage.yml re-runs it on every push to main and on every v* tag.
+# The generator is https://github.com/mattjesmc/ModPageConstructor. Run `modpage build` after
+# editing this file or CHANGELOG.md and commit the result; `gradlew build` (modpageCheck) fails
+# while a page is stale. The GitHub Actions workflow `modpage init` drops is deliberately not
+# here: ModPageConstructor is a private repository, and a public repository's workflow cannot
+# use an action from a private one. Once it is public, `modpage init` writes the workflow back.
 
 modpage: "0.4"
 
