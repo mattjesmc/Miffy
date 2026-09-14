@@ -15,6 +15,7 @@
 - About
 - Features
 - Growing up
+- Gallery
 - Recipes
 - Dependencies
 - Incompatibilities
@@ -66,6 +67,26 @@ stays Grown as long as she is fed.
 | Young | ×0.85 | 14 | 3 | 0 | Still flees; starts to keep up |
 | Adult | ×1.2 | 20 | 5 | 1 | Fights for her owner |
 | Grown | ×1.6 | 30 | 8 | 3 | Rideable with a saddle; Snuffy arrives |
+
+---
+
+## Gallery
+
+![Baby, Young, Adult and Grown - the same bunny, thirty carrots apart](https://raw.githubusercontent.com/mattjesmc/Miffy/main/assets/gallery/01_four_stages.png)
+
+*Baby, Young, Adult and Grown - the same bunny, thirty carrots apart*
+
+![A Grown Nijntje takes a saddle; the rider sits between the ears](https://raw.githubusercontent.com/mattjesmc/Miffy/main/assets/gallery/02_riding.png)
+
+*A Grown Nijntje takes a saddle; the rider sits between the ears*
+
+![Bunny Barding on, and Snuffy at her feet](https://raw.githubusercontent.com/mattjesmc/Miffy/main/assets/gallery/03_grown_with_snuffy.png)
+
+*Bunny Barding on, and Snuffy at her feet*
+
+![The dress takes any dye](https://raw.githubusercontent.com/mattjesmc/Miffy/main/assets/gallery/04_dresses.png)
+
+*The dress takes any dye*
 
 ---
 

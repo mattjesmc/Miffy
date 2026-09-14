@@ -16,7 +16,7 @@ authors: [mattjesmc]
 license: MIT
 
 assets:
-  dir: assets
+  dir: assets                     # assets/icon.png is the 512px project icon for Modrinth / CurseForge
   banner_dir: banners
   base_url: https://raw.githubusercontent.com/mattjesmc/Miffy/main/
 
@@ -52,6 +52,11 @@ generators:
   screenshots:
     use: files.glob
     pattern: "gallery/*.png"
+    captions:
+      01_four_stages: "Baby, Young, Adult and Grown - the same bunny, thirty carrots apart"
+      02_riding: "A Grown Nijntje takes a saddle; the rider sits between the ears"
+      03_grown_with_snuffy: "Bunny Barding on, and Snuffy at her feet"
+      04_dresses: "The dress takes any dye"
 
 sections:
   about: |

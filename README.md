@@ -27,6 +27,7 @@
 - [About](#about)
 - [Features](#features)
 - [Growing up](#growing-up)
+- [Gallery](#gallery)
 - [Recipes](#recipes)
 - [Dependencies](#dependencies)
 - [Incompatibilities](#incompatibilities)
@@ -82,6 +83,31 @@ stays Grown as long as she is fed.
 | Young | ×0.85 | 14 | 3 | 0 | Still flees; starts to keep up |
 | Adult | ×1.2 | 20 | 5 | 1 | Fights for her owner |
 | Grown | ×1.6 | 30 | 8 | 3 | Rideable with a saddle; Snuffy arrives |
+
+---
+<a id="gallery"></a>
+
+## Gallery
+
+<p align="center">
+  <img src="assets/gallery/01_four_stages.png" alt="Baby, Young, Adult and Grown - the same bunny, thirty carrots apart">
+  <br><sub><i>Baby, Young, Adult and Grown - the same bunny, thirty carrots apart</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/gallery/02_riding.png" alt="A Grown Nijntje takes a saddle; the rider sits between the ears">
+  <br><sub><i>A Grown Nijntje takes a saddle; the rider sits between the ears</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/gallery/03_grown_with_snuffy.png" alt="Bunny Barding on, and Snuffy at her feet">
+  <br><sub><i>Bunny Barding on, and Snuffy at her feet</i></sub>
+</p>
+
+<p align="center">
+  <img src="assets/gallery/04_dresses.png" alt="The dress takes any dye">
+  <br><sub><i>The dress takes any dye</i></sub>
+</p>
 
 ---
 <a id="recipes"></a>
