@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "id": "nijntje",
+  "version": "${version}",
+  "name": "Nijntje",
+  "description": "Adds Nijntje, a tamable bunny that grows when well cared for and becomes a rideable, armor-wearing battle companion.",
+  "authors": ["mattmc"],
+  "license": "MIT",
+  "icon": "assets/nijntje/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.mattmc.nijntje.Nijntje"
+    ],
+    "client": [
+      "com.mattmc.nijntje.client.NijntjeClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.3",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

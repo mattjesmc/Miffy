@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nijntje:item/nijntje_spawn_egg"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "nijntje_say": {
+    "category": "neutral",
+    "subtitle": "subtitles.nijntje.nijntje_say",
+    "sounds": [
+      "nijntje:nijntje_say1",
+      "nijntje:nijntje_say2",
+      "nijntje:nijntje_say3"
+    ]
+  }
+}

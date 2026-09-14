@@ -1,0 +1,34 @@
+# Gradle
+.gradle/
+build/
+out/
+*.class
+
+# Dev game state (the toolkit's dev client, the gate's headless server, launcher logs)
+run/
+run-server/
+logs/
+mods/
+
+# Python
+__pycache__/
+*.pyc
+
+# modpage: the vanilla texture cache the recipe renderer fills on first build
+.modpage/cache/
+
+# Agent registrations written by `gradlew toolkitInit`: they carry this machine's
+# absolute path to the workbench mcp-server, so each checkout regenerates its own.
+.mcp.json
+.claude/
+.codex/
+.cursor/
+.gemini/
+.vscode/
+.mcptoolkit/blockbench/
+
+# Editors / OS
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
